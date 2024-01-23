@@ -2,19 +2,17 @@
 
 int main()
 {
-    int fahr, celcius;
     int upper, lower, step;
 
     lower = 0;
     upper = 300;
     step = 20;
 
-    fahr = lower;
-    while (fahr <= upper)
+    for (int fahr = lower; fahr <= upper; fahr += step)
     {
-        celcius = 5 * (fahr - 32) / 9;
+        int celcius = 5 * (fahr - 32) / 9;
         printf("%3d\t %6d\n", fahr, celcius);
-        fahr = fahr + step;
     }
+
     return 0;
 }
