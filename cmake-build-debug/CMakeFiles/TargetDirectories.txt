@@ -1,0 +1,3 @@
+/Users/james/School/LangConcepts/CPrograms/cmake-build-debug/CMakeFiles/CPrograms.dir
+/Users/james/School/LangConcepts/CPrograms/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/james/School/LangConcepts/CPrograms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
