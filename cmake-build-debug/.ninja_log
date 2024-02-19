@@ -1,0 +1,14 @@
+# ninja log v5
+1	240	1708024907582175041	CMakeFiles/CPrograms.dir/chapter-1/input-output.c.o	d8da7be34b3c8ada
+0	241	1708024907582193665	CMakeFiles/CPrograms.dir/chapter-1/arrays.c.o	295275223c7204e9
+1	242	1708024907582181166	CMakeFiles/CPrograms.dir/chapter-1/ctof.c.o	52b9ca7dca5f584e
+1	242	1708024907582276789	CMakeFiles/CPrograms.dir/chapter-1/hello.c.o	a733bd6d636bff7f
+2	243	1708024907582269248	CMakeFiles/CPrograms.dir/chapter-1/longest-line.c.o	b722658634ce6fb5
+1	243	1708024907582184290	CMakeFiles/CPrograms.dir/chapter-1/char-count.c.o	2cee2a96c59da32a
+241	269	1708024907612019506	CMakeFiles/CPrograms.dir/chapter-1/power-function.c.o	8f48a69b6974a022
+241	269	1708024907612399917	CMakeFiles/CPrograms.dir/chapter-1/word-count.c.o	2a2ff35f3075b11d
+242	270	1708024907612109338	CMakeFiles/CPrograms.dir/chapter-2/leap-year.c.o	8993ca4f60bf638f
+243	270	1708024907613212697	CMakeFiles/CPrograms.dir/chapter-2/stoint.c.o	54c4d4d8e9f75b72
+243	273	1708024907616422195	CMakeFiles/CPrograms.dir/chapter-3/count.c.o	39a76abdc6675d71
+243	273	1708024907617476764	CMakeFiles/CPrograms.dir/chapter-3/binary-search.c.o	34ef3877f485c3d1
+269	290	1708024907633676416	CMakeFiles/CPrograms.dir/chapter-3/shell-sort.c.o	ebff073fbf374f99
